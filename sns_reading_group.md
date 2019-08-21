@@ -19,5 +19,5 @@ or two people assigned to lead a discussion about the readings.
 | 6 | 8/6 | 3PM | MGH 015 | [SpotLight: Detecting Anamolies in Streaming Graphs](https://www.kdd.org/kdd2018/accepted-papers/view/spotlight-detecting-anomalies-in-streaming-graphs) |
 | 7 | 8/13 | 3PM | MGH 015 | [The structure of online social networks mirrors those in the offline world](https://www.sciencedirect.com/science/article/pii/S0378873315000313) |
 | 8 | 8/20 | 3PM | MGH 015 | Team Meeting |
-| 9 | 8/27 | 3PM | MGH 015 | [Paper title](Link) |
+| 9 | 8/27 | 3PM | MGH 015 | [Global labor flow network reveals the hierarchical organization and dynamics of geo-industrial clusters in the world economy](https://www.nature.com/articles/s41467-019-11380-w) |
 | 10 | 9/3 | 3PM | MGH 015 | [Paper title](Link) |
