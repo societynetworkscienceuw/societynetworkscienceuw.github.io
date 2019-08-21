@@ -6,10 +6,10 @@ highlighter:      pygments
 permalink:        pretty
 
 # Setup
-title:            Hyde
-tagline:          'A Jekyll theme'
-description:      'A brazen two-column <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme that pairs a prominent sidebar with uncomplicated content. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
-url:              http://hyde.getpoole.com
+title:            Society of Network Scientists
+tagline:          'University of Washington'
+description:      'A student run organization focussed on encouraging Network Science research at the University of Washington.'
+url:              http://societynetworkscienceuw.github.io
 baseurl:          /
 
 author:
@@ -20,4 +20,4 @@ paginate:         5
 
 
 github:
-  repo:           https://github.com/poole/hyde
+  repo:           https://github.com/societynetworkscienceuw/societynetworkscienceuw.github.io
