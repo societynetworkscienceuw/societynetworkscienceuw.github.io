@@ -6,14 +6,14 @@ highlighter:      rouge
 permalink:        pretty
 
 # Setup
-title:            Machines Who Learn
-tagline:          "A ML / AI / Data Science Student Organization at UW"
-description:      "We're a ML / AI / Data Science student organization at the University of Washington."
-url:              https://machineswholearn.github.io/
+title:            Society of Network Scientists
+tagline:          "A Network Science Student Organization at UW"
+description:      "We're a student run organization at University of Washington aimed at encouraging Network Science research on campus."
+url:              https://societynetworkscienceuw.github.io/
 
 author:
-  name:           'Nelson Liu'
-  url:            https://homes.cs.washington.edu/~nfliu/
+  name:           'Kishore Vasan'
+  url:            https://www.kishorevasan.me
 
 paginate:         5
 
