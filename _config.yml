@@ -1,23 +1,24 @@
 # Dependencies
-markdown:         redcarpet
-highlighter:      pygments
+markdown:         kramdown
+highlighter:      rouge
 
 # Permalinks
 permalink:        pretty
 
 # Setup
-title:            Society of Network Scientists
-tagline:          'University of Washington'
-description:      'A student run organization focussed on encouraging Network Science research at the University of Washington.'
-url:              http://societynetworkscienceuw.github.io
-baseurl:          /
+title:            Machines Who Learn
+tagline:          "A ML / AI / Data Science Student Organization at UW"
+description:      "We're a ML / AI / Data Science student organization at the University of Washington."
+url:              https://machineswholearn.github.io/
 
 author:
-  name:           'Kishore Vasan'
-  url:            https://www.kishorevasan.me
+  name:           'Nelson Liu'
+  url:            https://homes.cs.washington.edu/~nfliu/
 
 paginate:         5
 
+# Custom vars
+# gems: [jekyll-paginate]
 
 github:
-  repo:           https://github.com/societynetworkscienceuw/societynetworkscienceuw.github.io
+  repo:           https://github.com/poole/hyde
