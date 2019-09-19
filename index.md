@@ -8,3 +8,6 @@ Society for Network Scientists is a student-led organization aimed at promoting 
 If you're interested in joining us, feel free to come to any of our upcoming events listed on this website.
 
 We're on GitHub at [github.com/societynetworkscienceuw](https://github.com/societynetworkscienceuw).
+You can sign up for our reading group mailing list [here](http://mailman11.u.washington.edu/mailman/listinfo/social_networks_reading_group) and join our Slack workspace [here](https://join.slack.com/t/uw-sns/signup).
+
+![](./assets/img/sns_logo.png)
