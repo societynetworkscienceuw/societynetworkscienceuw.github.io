@@ -7,6 +7,22 @@ We're reading research papers about various topics in network science. The paper
 or two people assigned to lead a discussion about the readings.
 
 
+## Fall 2019 Schedule
+
+| Week | Date | Time | Place | Paper |
+|------|------|---------|---------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 1 | 10/3 | 230PM | MGH 015H | [How to Receive More Funding for Your Research? Get Connected to the Right People!](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0133061) |
+| 2 | 10/10 | 230PM | MGH 015H | [Paper title](Link) |
+| 3 | 10/17 | 230PM | MGH 015 | [Paper title](Link) |
+| 4 | 10/24 | 230PM | MGH 015 | [Paper title](Link)|
+| 5 | 10/31 | 230PM | MGH 015 | [Paper title](Link) |
+| 6 | 11/7 | 230PM | MGH 015 | [Paper title](Link) |
+| 7 | 11/14 | 230PM | MGH 015 | [Paper title](Link) |
+| 8 | 11/21 | 230PM | MGH 015 | [Paper title](Link) |
+| 9 | 11/28 | 230PM | MGH 015 | **Thanksgiving Break** |
+| 10 | 12/5 | 230PM | MGH 015 | [Paper title](Link) |
+| 11 | 12/13 | 230PM | MGH 015 | [Paper title](Link) |
+
 ## Summer 2019 Schedule
 
 | Week | Date | Time | Place | Paper |
@@ -19,5 +35,4 @@ or two people assigned to lead a discussion about the readings.
 | 6 | 8/6 | 3PM | MGH 015 | [SpotLight: Detecting Anamolies in Streaming Graphs](https://www.kdd.org/kdd2018/accepted-papers/view/spotlight-detecting-anomalies-in-streaming-graphs) |
 | 7 | 8/13 | 3PM | MGH 015 | [The structure of online social networks mirrors those in the offline world](https://www.sciencedirect.com/science/article/pii/S0378873315000313) |
 | 8 | 8/20 | 3PM | MGH 015 | Team Meeting |
-| 9 | 8/27 | 3PM | MGH 015 | [Global labor flow network reveals the hierarchical organization and dynamics of geo-industrial clusters in the world economy](https://www.nature.com/articles/s41467-019-11380-w) |
-| 10 | 9/3 | 3PM | MGH 015 | [Paper title](Link) |
+| 9 | 8/27 | 3PM | MGH 015 | [A Social Network Analysis Perspective on Student Interaction Within the Twitter Microblogging Environment](https://ieeexplore.ieee.org/document/5571143) |
