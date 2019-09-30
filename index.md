@@ -14,10 +14,10 @@ You can sign up for our reading group mailing list [here](http://mailman11.u.was
 
 || Name | Position | Level of Study |
 |------|------|---------|---------|
-| <img src="./officers/leo.jpeg" width="1200" height = "180">  | [Leo Stewart](https://leostewart.weebly.com/) | President (Barabasi Chief Node) | PhD in Information Science |
-| <img src="./officers/kishore.jpg" width="1200" height = "180"> | [Kishore Vasan](https://kishorevasan.me) | Vice President (Louvain Captain of Community Detection) | Undergraduate in Informatics|
-| <img src="./officers/emily.jpg" width="1200" height = "180">  | Emily Porter | Social Chair (Watts Foreperson of Bridging Ties) | PhD in Information Science
-| <img src="./officers/lily.jpg" width="1200" height = "180"> | Lily Deng | Secretary (Bott Manager of Network Embeddings) | Masters in Information Management |
-| <img src="./officers/kaylea.jpeg" width="1200" height = "180">  | [Kaylea Champion](http://www.kayleachampion.com) | Treasurer (Kleinberg Supervisor of Burst Detection) | PhD in Communication Studies |
+| <img src="./officers/leo.jpeg" width="200" height = "180">  | [Leo Stewart](https://leostewart.weebly.com/) | President (Barabasi Chief Node) | PhD in Information Science |
+| <img src="./officers/kishore.jpg" width="200" height = "180"> | [Kishore Vasan](https://kishorevasan.me) | Vice President (Louvain Captain of Community Detection) | Undergraduate in Informatics|
+| <img src="./officers/emily.jpg" width="200" height = "180">  | Emily Porter | Social Chair (Watts Foreperson of Bridging Ties) | PhD in Information Science
+| <img src="./officers/lily.jpg" width="200" height = "180"> | Lily Deng | Secretary (Bott Manager of Network Embeddings) | Masters in Information Management |
+| <img src="./officers/kaylea.jpeg" width="200" height = "180">  | [Kaylea Champion](http://www.kayleachampion.com) | Treasurer (Kleinberg Supervisor of Burst Detection) | PhD in Communication Studies |
 
 ![](./assets/img/sns_logo.png)
