@@ -12,7 +12,7 @@ or two people assigned to lead a discussion about the readings.
 | Week | Date | Time | Place | Paper |
 |------|------|---------|---------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | 1 | 10/3 | 230PM | MGH 015H | [How to Receive More Funding for Your Research? Get Connected to the Right People!](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0133061) |
-| 2 | 10/10 | 230PM | MGH 015H | [Paper title](Link) |
+| 2 | 10/10 | 230PM | MGH 015H | [Ego-Splitting Framework: from Non-Overlapping to Overlapping Clusters](https://dl.acm.org/citation.cfm?id=3098054&picked=formats) |
 | 3 | 10/17 | 230PM | MGH 015 | [Paper title](Link) |
 | 4 | 10/24 | 230PM | MGH 015 | [Paper title](Link)|
 | 5 | 10/31 | 230PM | MGH 015 | [Paper title](Link) |
