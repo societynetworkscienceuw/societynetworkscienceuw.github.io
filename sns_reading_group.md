@@ -6,6 +6,7 @@ title: Network Science Reading Group
 We're reading research papers about various topics in network science. The papers could be both methods and/or application oriented. Meetings will be informal, reading-group style with one
 or two people assigned to lead a discussion about the readings.
 
+You can look at our Zotero group [here!](https://www.zotero.org/groups/sns_reading_group/items)
 
 ## Fall 2019 Schedule
 
@@ -13,8 +14,8 @@ or two people assigned to lead a discussion about the readings.
 |------|------|---------|---------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | 1 | 10/3 | 230PM | MGH 015H | [How to Receive More Funding for Your Research? Get Connected to the Right People!](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0133061) |
 | 2 | 10/10 | 230PM | MGH 015H | [Ego-Splitting Framework: from Non-Overlapping to Overlapping Clusters](https://dl.acm.org/citation.cfm?id=3098054&picked=formats) |
-| 3 | 10/17 | 230PM | MGH 015 | [Paper title](Link) |
-| 4 | 10/24 | 230PM | MGH 015 | [Paper title](Link)|
+| 3 | 10/17 | 230PM | MGH 015 | [Citing for high impact](https://dl.acm.org/citation.cfm?doid=1816123.1816131) |
+| 4 | 10/24 | 230PM | MGH 015 | [Prismatic effects of negative ties](https://www.sciencedirect.com/science/article/pii/S0378873318300182)|
 | 5 | 10/31 | 230PM | MGH 015 | [Paper title](Link) |
 | 6 | 11/7 | 230PM | MGH 015 | [Paper title](Link) |
 | 7 | 11/14 | 230PM | MGH 015 | [Paper title](Link) |
