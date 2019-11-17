@@ -13,8 +13,6 @@ or two people assigned to lead a discussion about the readings.
     <!--
     rssfeed_url = new Array();
     rssfeed_url[0] = "https://api.zotero.org/groups/2389831/items/top?start=0&limit=25&format=atom&v=1";
-    rssfeed_frame_width = "230";
-    rssfeed_frame_height = "260";
     rssfeed_scroll = "on";
     rssfeed_scroll_step = "6";
     rssfeed_scroll_bar = "off";
@@ -23,7 +21,7 @@ or two people assigned to lead a discussion about the readings.
     rssfeed_font_face = "";
     rssfeed_border = "on";
     rssfeed_css_url = "https://feed.surfing-waves.com/css/style4.css";
-    <!-- rssfeed_title = "on";
+    rssfeed_title = "on";
     rssfeed_title_name = "";
     rssfeed_title_bgcolor = "#3366ff";
     rssfeed_title_color = "#fff";
@@ -44,7 +42,7 @@ or two people assigned to lead a discussion about the readings.
     rssfeed_item_description_length = "120";
     rssfeed_item_description_color = "#666";
     rssfeed_item_description_link_color = "#333";
-    rssfeed_item_description_tag = "on"; -->
+    rssfeed_item_description_tag = "on";
     rssfeed_no_items = "0";
     rssfeed_cache = "07bd3633ad312c4dbacd925a8af2004b";
     //-->
