@@ -6,13 +6,15 @@ title: Network Science Reading Group
 We're reading research papers about various topics in network science. The papers could be both methods and/or application oriented. Meetings will be informal, reading-group style with one
 or two people assigned to lead a discussion about the readings.
 
-<!-- Here's some of what we've been reading. You can see more at our Zotero feed [here](https://www.zotero.org/groups/sns_reading_group/items)! -->
+<!-- Here's some of what we've been reading. You can see more at our Zotero feed [here](https://www.zotero.org/groups/sns_reading_group/items) -->
 
 <!-- start sw-rss-feed code -->
 <script type="text/javascript">
     <!--
     rssfeed_url = new Array();
     rssfeed_url[0] = "https://api.zotero.org/groups/2389831/items/top?start=0&limit=25&format=atom&v=1";
+    rssfeed_frame_width = parentWidth(document.getElementById('typehead'));
+    rssfeed_frame_height = "260";
     rssfeed_scroll = "on";
     rssfeed_scroll_step = "6";
     rssfeed_scroll_bar = "off";
