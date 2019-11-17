@@ -15,8 +15,3 @@ The feed description is displayed in a <p> tag with class feed-desc.
 The feed icon is displayed in an <img> tag with class feed-title-image.
 Each feed item title is displayed in a <h4> tag with class feed-item-title.
 Each feed item description is displayed in a <p> tag with class feed-item-desc.  -->
-<style contenteditable>
-  .feed {
-    color: black;
-  }
-</style>
