@@ -5,8 +5,9 @@ title: Welcome
 <style>
 <!-- CSS for the officers table -->
     .headshot {
-        width: 100px;
+        width: 100%;
         height: auto;
+        max-width: 100;
     }
     table, th, td {
         border: 0px;
