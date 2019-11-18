@@ -45,6 +45,15 @@ You can sign up for our reading group mailing list [here](http://mailman11.u.was
     <td>President/ Barabasi Chief Node</td>
     <td>PhD in Information Science</td>
   </tr>
+  <tr>
+    <td>
+        <img src="./officers/kishore.jpg" class="headshot" alt="Kishore's headshot">
+    <td>
+        <a href="https://kishorevasan.me">Kishore Vasan</a>
+    </td>
+    <td>Vice President/ Louvain Captain of Community Detection</td>
+    <td>Undergraduate in Informatics</td>
+  </tr>
 </table>
 
 ![](./assets/img/sns_logo.png)
