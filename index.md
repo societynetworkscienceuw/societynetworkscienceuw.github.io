@@ -14,20 +14,9 @@ You can sign up for our reading group mailing list [here](http://mailman11.u.was
 
 <style>
     .headshot {
-      width: 100%;
-      height: auto;
-      position: relative;
-      width: 180px;
-      height: 200px;
-      overflow: hidden;
-    }
-    td{
-        border:1px solid #000;
-    }
-
-    tr td:last-child{
-        width:1%;
-        white-space:nowrap;
+        width: 100%;
+        height: auto;
+        max-width: 180;
     }
 </style>
 
