@@ -21,17 +21,6 @@ You can sign up for our reading group mailing list [here](http://mailman11.u.was
       height: 200px;
       overflow: hidden;
     }
-    table {
-    table-layout: auto;
-    border-collapse: collapse;
-    width: 100%;
-    }
-    <!-- table td {
-        border: 1px solid #ccc;
-    } -->
-    table .absorbing-column {
-        width: 100%;
-    }
 </style>
 
 <!-- || Name | Position | Current Program |
@@ -43,6 +32,7 @@ You can sign up for our reading group mailing list [here](http://mailman11.u.was
 | <img src="./officers/kaylea.jpeg" class="headshot" alt="Kaylea's headshot">  | [Kaylea Champion](http://www.kayleachampion.com) | Treasurer/ Kleinberg Supervisor of Burst Detection | PhD in Communication Studies | -->
 
 <table>
+    <col width="130">
   <tr>
     <th>Headshot</th>
     <th>Name</th>
