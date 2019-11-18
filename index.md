@@ -11,6 +11,7 @@ We're on GitHub at [github.com/societynetworkscienceuw](https://github.com/socie
 You can sign up for our reading group mailing list [here](http://mailman11.u.washington.edu/mailman/listinfo/social_networks_reading_group) and join our Slack workspace [here](https://join.slack.com/t/uw-sns/signup).
 
 **Officers**
+
 || Name | Position | Current Program |
 |------|------|---------|---------|
 | <img src="./officers/leo.jpeg" class="headshot" alt="Leo's headshot"> | [Leo Stewart](https://leostewart.weebly.com/) | President/ Barabasi Chief Node | PhD in Information Science |
