@@ -21,6 +21,14 @@ You can sign up for our reading group mailing list [here](http://mailman11.u.was
       height: 200px;
       overflow: hidden;
     }
+    td{
+        border:1px solid #000;
+    }
+
+    tr td:last-child{
+        width:1%;
+        white-space:nowrap;
+    }
 </style>
 
 <!-- || Name | Position | Current Program |
@@ -31,33 +39,32 @@ You can sign up for our reading group mailing list [here](http://mailman11.u.was
 | <img src="./officers/lily.jpg" class="headshot" alt="Lily's headshot"> | Lily Deng | Secretary/ Bott Manager of Network Embeddings | Masters in Information Management |
 | <img src="./officers/kaylea.jpeg" class="headshot" alt="Kaylea's headshot">  | [Kaylea Champion](http://www.kayleachampion.com) | Treasurer/ Kleinberg Supervisor of Burst Detection | PhD in Communication Studies | -->
 
-<table>
-    <col width="130">
+<table style="width: 100%;">
   <tr>
-    <th>Headshot</th>
+    <th></th>
     <th>Name</th>
     <th>Position</th>
     <th>Current Program</th>
   </tr>
   <tr>
-    <td>
+    <td class="block">
         <img src="./officers/leo.jpeg" class="headshot" alt="Leo's headshot">
     </td>
-    <td>
+    <td class="block">
         <a href="https://leostewart.weebly.com/">Leo Stewart</a>
     </td>
-    <td>President/ Barabasi Chief Node</td>
-    <td>PhD in Information Science</td>
+    <td class="block">President/ Barabasi Chief Node</td>
+    <td class="block">PhD in Information Science</td>
   </tr>
   <tr>
-    <td>
+    <td class="block">
         <img src="./officers/kishore.jpg" class="headshot" alt="Kishore's headshot">
     </td>
-    <td>
+    <td class="block">
         <a href="https://kishorevasan.me">Kishore Vasan</a>
     </td>
-    <td>Vice President/ Louvain Captain of Community Detection</td>
-    <td>Undergraduate in Informatics</td>
+    <td class="block">Vice President/ Louvain Captain of Community Detection</td>
+    <td class="block">Undergraduate in Informatics</td>
   </tr>
 </table>
 
