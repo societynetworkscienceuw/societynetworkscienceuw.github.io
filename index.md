@@ -12,12 +12,43 @@ You can sign up for our reading group mailing list [here](http://mailman11.u.was
 
 **Officer Committee**
 
-|| Name | Position | Level of Study |
+<!-- || Name | Position | Level of Study |
 |------|------|---------|---------|
 | <img src="./officers/leo.jpeg" width="200" height = "180">  | [Leo Stewart](https://leostewart.weebly.com/) | President (Barabasi Chief Node) | PhD in Information Science |
 | <img src="./officers/kishore.jpg" width="200" height = "180"> | [Kishore Vasan](https://kishorevasan.me) | Vice President (Louvain Captain of Community Detection) | Undergraduate in Informatics|
 | <img src="./officers/emily.jpg" width="200" height = "180">  | Emily Porter | Social Chair (Watts Foreperson of Bridging Ties) | PhD in Information Science
 | <img src="./officers/lily.jpg" width="200" height = "180"> | Lily Deng | Secretary (Bott Manager of Network Embeddings) | Masters in Information Management |
-| <img src="./officers/kaylea.jpeg" width="200" height = "180">  | [Kaylea Champion](http://www.kayleachampion.com) | Treasurer (Kleinberg Supervisor of Burst Detection) | PhD in Communication Studies |
+| <img src="./officers/kaylea.jpeg" width="200" height = "180">  | [Kaylea Champion](http://www.kayleachampion.com) | Treasurer (Kleinberg Supervisor of Burst Detection) | PhD in Communication Studies | -->
+
+|| Name | Position | Program |
+|------|------|---------|---------|
+| <div class="thumbnail"> <img src="./officers/leo.jpeg" class="portrait" alt="Image" /> </div> | [Leo Stewart](https://leostewart.weebly.com/) | President (Barabasi Chief Node) | PhD in Information Science |
+| <img src="./officers/kishore.jpg" width="200" height = "200"> | [Kishore Vasan](https://kishorevasan.me) | Vice President (Louvain Captain of Community Detection) | Undergraduate in Informatics|
+| <img src="./officers/emily.jpg" width="200" height = "200">  | Emily Porter | Social Chair (Watts Foreperson of Bridging Ties) | PhD in Information Science
+| <img src="./officers/lily.jpg" width="200" height = "200"> | Lily Deng | Secretary (Bott Manager of Network Embeddings) | Masters in Information Management |
+| <img src="./officers/kaylea.jpeg" width="200" height = "200">  | [Kaylea Champion](http://www.kayleachampion.com) | Treasurer (Kleinberg Supervisor of Burst Detection) | PhD in Communication Studies |
+
+<style>
+.thumbnail {
+  position: relative;
+  width: 200px;
+  height: 200px;
+  overflow: hidden;
+}
+.thumbnail img {
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  height: 100%;
+  width: auto;
+  -webkit-transform: translate(-50%,-50%);
+      -ms-transform: translate(-50%,-50%);
+          transform: translate(-50%,-50%);
+}
+.thumbnail img.portrait {
+  width: 100%;
+  height: auto;
+}
+</style>
 
 ![](./assets/img/sns_logo.png)
