@@ -38,7 +38,8 @@ You can sign up for our reading group mailing list [here](http://mailman11.u.was
   </tr>
   <tr>
     <td>
-        <img src="./officers/leo.jpeg" class="headshot" alt="Leo's headshot"></td>
+        <img src="./officers/leo.jpeg" class="headshot" alt="Leo's headshot">
+    </td>
     <td>
         <a href="https://leostewart.weebly.com/">Leo Stewart</a>
     </td>
@@ -48,6 +49,7 @@ You can sign up for our reading group mailing list [here](http://mailman11.u.was
   <tr>
     <td>
         <img src="./officers/kishore.jpg" class="headshot" alt="Kishore's headshot">
+    </td>
     <td>
         <a href="https://kishorevasan.me">Kishore Vasan</a>
     </td>
