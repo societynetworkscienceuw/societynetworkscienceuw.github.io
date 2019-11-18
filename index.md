@@ -10,7 +10,9 @@ If you're interested in joining us, feel free to come to any of our upcoming eve
 We're on GitHub at [github.com/societynetworkscienceuw](https://github.com/societynetworkscienceuw).
 You can sign up for our reading group mailing list [here](http://mailman11.u.washington.edu/mailman/listinfo/social_networks_reading_group) and join our Slack workspace [here](https://join.slack.com/t/uw-sns/signup).
 
-**Officers**<style>
+**Officers**
+
+<style>
     .headshot {
       width: 100%;
       height: auto;
@@ -18,6 +20,17 @@ You can sign up for our reading group mailing list [here](http://mailman11.u.was
       width: 180px;
       height: 200px;
       overflow: hidden;
+    }
+    table {
+    table-layout: auto;
+    border-collapse: collapse;
+    width: 100%;
+    }
+    <!-- table td {
+        border: 1px solid #ccc;
+    } -->
+    table .absorbing-column {
+        width: 100%;
     }
 </style>
 
