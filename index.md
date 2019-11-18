@@ -44,7 +44,7 @@ You can sign up for our reading group mailing list [here](http://mailman11.u.was
 
 <table>
   <tr>
-    <th></th>
+    <th>Headshot</th>
     <th>Name</th>
     <th>Position</th>
     <th>Current Program</th>
