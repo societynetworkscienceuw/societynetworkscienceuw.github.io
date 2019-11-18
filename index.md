@@ -2,6 +2,16 @@
 layout: page
 title: Welcome
 ---
+<style>
+    .headshot {
+      width: 100%;
+      height: auto;
+      position: relative;
+      width: 180px;
+      height: 200px;
+      overflow: hidden;
+    }
+</style>
 
 Society for Network Scientists is a student-led organization aimed at promoting Network Science research at the University of Washington. Our goal is to create a tight knit community of students and faculty to discuss and collaborate on various topics concerning Network Science.
 
@@ -19,16 +29,5 @@ You can sign up for our reading group mailing list [here](http://mailman11.u.was
 | <img src="./officers/emily.jpg" class="headshot" alt="Emily's headshot">  | Emily Porter | Social Chair/ Watts Foreperson of Bridging Ties | PhD in Information Science
 | <img src="./officers/lily.jpg" class="headshot" alt="Lily's headshot"> | Lily Deng | Secretary/ Bott Manager of Network Embeddings | Masters in Information Management |
 | <img src="./officers/kaylea.jpeg" class="headshot" alt="Kaylea's headshot">  | [Kaylea Champion](http://www.kayleachampion.com) | Treasurer/ Kleinberg Supervisor of Burst Detection | PhD in Communication Studies |
-
-<style>
-    .headshot {
-      width: 100%;
-      height: auto;
-      position: relative;
-      width: 180px;
-      height: 200px;
-      overflow: hidden;
-    }
-</style>
 
 ![](./assets/img/sns_logo.png)
