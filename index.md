@@ -20,25 +20,13 @@ You can sign up for our reading group mailing list [here](http://mailman11.u.was
 | <img src="./officers/kaylea.jpeg" class="portrait" alt="Kaylea's headshot">  | [Kaylea Champion](http://www.kayleachampion.com) | Treasurer/ Kleinberg Supervisor of Burst Detection | PhD in Communication Studies |
 
 <style>
-.thumbnail {
+img.portrait {
+  width: 100%;
+  height: auto;
   position: relative;
   width: 200px;
   height: 200px;
   overflow: hidden;
-}
-.thumbnail img {
-  position: absolute;
-  left: 50%;
-  top: 50%;
-  height: 100%;
-  width: auto;
-  -webkit-transform: translate(-50%,-50%);
-      -ms-transform: translate(-50%,-50%);
-          transform: translate(-50%,-50%);
-}
-.thumbnail img.portrait {
-  width: 100%;
-  height: auto;
 }
 </style>
 
